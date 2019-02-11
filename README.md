@@ -6,6 +6,9 @@ This is a boiler plate repo for the developing using TDD
 2. cmake
 3. gcc
 
+## Cloning
+ use `--recurse-submodules` when cloning as I've added the Unity library as a submodule.
+
 ## Usage 
 * `prod_code` folder will contain the module developed. 
 * Don't forget to change this line in CMakeLists.txt to the correct C files
